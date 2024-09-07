@@ -1,0 +1,38 @@
+<QUESTÃO 01:
+    "HTML é a linguagem usada para estruturar páginas da web. Ela organiza o conteúdo (texto, imagens, links) de forma acessível e visualizável em navegadores, sendo essencial para a
+    construção de qualquer site ou aplicação web."
+
+
+<QUESTÃO 02:
+    A estrutura básica inclui:
+
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>Título</title>
+        </head>
+        <body>
+            <h1>Bem-vindo</h1>
+        </body>
+    </html>
+
+    Essas são as tags principais:
+    
+    <!DOCTYPE html>
+    <head>
+    <tittle>
+    <body>
+    <html>
+
+
+<QUESTÃO 03:
+    "HTML Semântico refere-se ao uso de tags HTML que têm um significado específico, 
+    tanto para os desenvolvedores quanto para os navegadores. O que melhora na acessibilidade, na manutenção e nos motores de busca. 
+    Os elementos mais comuns são: 
+    <header>, <main>, <footer>, <nav>, <section> e <article>"
+
+
+<QUESTÃO 04:
+    "Acessibilidade garante que pessoas com deficiência possam usar a web. Dois recursos são:
+    alt = Usado para descrever imagens  e  <track> = Elemento que fornece legendas em vídeos;
+
