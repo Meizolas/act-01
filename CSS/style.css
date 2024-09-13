@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    
+}
+
+body{
+    background-color: black;
+    height: 100hv;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+header{
+    padding: 40px 4%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+header > .interface{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 245px;
+}
+
+header a{
+    color: rgb(158, 158, 158);
+    display: inline-block;
+    transition: .2s;
+}
+
+header a:hover{
+    color: white;
+    transform: scale(1.10);
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 70px;
+    cursor: pointer;
+}
+
+main{
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+}
+
+.biografia{
+    margin-top: 80px;
+}
+
+.localidade {
+    margin-top: 80px;
+}
+
+.disciplinas {
+    margin-top: 80px;
+}
